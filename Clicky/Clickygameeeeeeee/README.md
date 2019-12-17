@@ -1,9 +1,6 @@
 # Clicky Game
 
-<img src="./public/gif/app-in-motion.gif"/>
+#### Overview
+For this assignment, you'll create a memory game with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
 
-#### Test your memory with your favorite friends from _video games_.
-
-#### Click on each character once to win the game. But don't click on a character twice, or it's game over for you!
-
-#### Built with React. Check it out [here](https://this-clicky-game.herokuapp.com/).
+#### Check It Out Here! (https://git.heroku.com/clickygameeee.git).
